@@ -1,0 +1,36 @@
+name: Auto-update Privacy Badger List
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual trigger via GitHub web UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build Filter List
+        run: python build_list.py
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add privacybadger.txt
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "Update Privacy Badger filter list ($(date -u +'%Y-%m-%d'))"
+            git push
+          fi
