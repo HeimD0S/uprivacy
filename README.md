@@ -1,5 +1,5 @@
 ## uprivacy 
-### A Ad-Block List for EFF's Privacy Badger Seed List
+### An Ad-Block-Compatible List Based On the EFF's Privacy Badger Seed List
 
 A short and sweet list that updates based on EFF's Privacy Badger Seed List found here:
 
@@ -15,4 +15,8 @@ Because heuristics is disabled by default since it can finger print, EFF pre-loa
 4. Scroll to the bottom, find 'Import...' and select it.
 5. Paste `https://raw.githubusercontent.com/HeimD0S/uprivacy/main/privacybadger.txt` into the empty box. If your import lists already has items, create a new line and insert the list URL there.
 7. Look at the top of your page and you should see the '✓ Apply Changes' button. Select it.
-8. Refresh the page and you should see a new 'Custom' category at the bottom of the Filter Lists, with 'EFF Privacy Badger Blocklist' added and already selected. 
+8. Refresh the page and you should see a new 'Custom' category at the bottom of the Filter Lists, with 'EFF Privacy Badger Blocklist' added and already selected.
+9. Adding this list enables the blocking of domains based on EFF's rulesets they built for Privacy Badger.
+
+## Go Support the EFF
+https://www.eff.org/ 
