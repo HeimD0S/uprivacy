@@ -22,7 +22,7 @@ last_modified_str = now_utc.strftime("%d %b %Y %H:%M UTC")
 header = f"""[Adblock Plus 2.0]
 ! Title: EFF Privacy Badger Blocklist
 ! Description: Automatically converted filter list from EFF Privacy Badger's seed data (Badger Sett).
-! Homepage: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+! Homepage: https://github.com/HeimD0S/uprivacy
 ! Source: https://github.com/EFForg/privacybadger
 ! Version: {version_str}
 ! Last modified: {last_modified_str}
