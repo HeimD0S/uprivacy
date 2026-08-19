@@ -21,7 +21,7 @@ last_modified_str = now_utc.strftime("%d %b %Y %H:%M UTC")
 
 header = f"""[Adblock Plus 2.0]
 ! Title: EFF Privacy Badger Blocklist
-! Description: Automatically converted filter list from EFF Privacy Badger's seed data (Badger Sett).
+! Description: Converted third-party tracker list from EFF Privacy Badger's seed data (Badger Sett).
 ! Homepage: https://github.com/HeimD0S/uprivacy
 ! Source: https://github.com/EFForg/privacybadger
 ! Version: {version_str}
@@ -30,20 +30,22 @@ header = f"""[Adblock Plus 2.0]
 ! Total Rules: {len(blocked_domains) + len(cookieblock_domains)}
 !
 ! ========================================================
-! Section 1: Hard Blocked Tracking Domains ({len(blocked_domains)})
+! Section 1: Third-Party Blocked Domains ({len(blocked_domains)})
+! Blocks third-party tracking while allowing direct site navigation
 ! ========================================================
 """
 
-lines = [header]
+lines = [header.strip()]
 for domain in blocked_domains:
-    lines.append(f"||{domain}^")
+    # Use $3p so direct first-party visits to sites like google.com still work
+    lines.append(f"||{domain}^$3p")
 
-lines.append(f"""
+lines.append("""
 ! ========================================================
-! Section 2: Cookie-Blocked Domains ({len(cookieblock_domains)})
-! Blocks 3rd-party cookie & storage access
+! Section 2: Third-Party Cookie-Blocked Domains ({0})
+! Restricts 3rd-party cookies/storage without canceling the request
 ! ========================================================
-""")
+""".format(len(cookieblock_domains)).strip())
 
 for domain in cookieblock_domains:
     lines.append(f"||{domain}^$3p,cookie")
