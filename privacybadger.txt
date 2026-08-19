@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: EFF Privacy Badger Blocklist
 ! Description: Automatically converted filter list from EFF Privacy Badger's seed data (Badger Sett).
-! Homepage: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+! Homepage: https://github.com/HeimD0S/uprivacy
 ! Source: https://github.com/EFForg/privacybadger
-! Version: 202608182357
-! Last modified: 18 Aug 2026 23:57 UTC
+! Version: 202608190030
+! Last modified: 19 Aug 2026 00:30 UTC
 ! Expires: 2 days
 ! Total Rules: 3811
 !
