@@ -3,8 +3,8 @@
 ! Description: Converted third-party tracker list from EFF Privacy Badger's seed data (Badger Sett).
 ! Homepage: https://github.com/HeimD0S/uprivacy
 ! Source: https://github.com/EFForg/privacybadger
-! Version: 202608270522
-! Last modified: 27 Aug 2026 05:22 UTC
+! Version: 202608280719
+! Last modified: 28 Aug 2026 07:19 UTC
 ! Expires: 2 days
 ! Total Rules: 3811
 !
