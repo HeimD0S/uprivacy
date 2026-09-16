@@ -3,13 +3,13 @@
 ! Description: Converted third-party tracker list from EFF Privacy Badger's seed data (Badger Sett).
 ! Homepage: https://github.com/HeimD0S/uprivacy
 ! Source: https://github.com/EFForg/privacybadger
-! Version: 202609150207
-! Last modified: 15 Sep 2026 02:07 UTC
+! Version: 202609160158
+! Last modified: 16 Sep 2026 01:58 UTC
 ! Expires: 2 days
-! Total Rules: 3811
+! Total Rules: 3938
 !
 ! ========================================================
-! Section 1: Third-Party Blocked Domains (3001)
+! Section 1: Third-Party Blocked Domains (3098)
 ! Blocks third-party tracking while allowing direct site navigation
 ! ========================================================
 ||00px.net^$3p
@@ -54,6 +54,7 @@
 ||58.com^$3p
 ||58.com.cn^$3p
 ||58cdn.com.cn^$3p
+||5949390294.com^$3p
 ||6025be1756.com^$3p
 ||60ah.com^$3p
 ||6opo.com^$3p
@@ -70,6 +71,7 @@
 ||a-mx.com^$3p
 ||a28bedd7c2.com^$3p
 ||a3kvau184uea.com^$3p
+||a594065edc.com^$3p
 ||a8.net^$3p
 ||ab-ct.ru^$3p
 ||abaadvertisement.com^$3p
@@ -81,6 +83,7 @@
 ||abv.bg^$3p
 ||accdab.net^$3p
 ||accesstrade.net^$3p
+||acclaimedbread.com^$3p
 ||acecounter.com^$3p
 ||aceplanet.co.kr^$3p
 ||acint.net^$3p
@@ -172,11 +175,13 @@
 ||adplay.ru^$3p
 ||adplsr.com^$3p
 ||adpnut.com^$3p
+||adpool.bet^$3p
 ||adprime.com^$3p
 ||adprimus.com^$3p
 ||adpushup.com^$3p
 ||adradv.io^$3p
 ||adrecover.com^$3p
+||adretriever.com^$3p
 ||adriver.ru^$3p
 ||adroll.com^$3p
 ||adrsbl.io^$3p
@@ -211,6 +216,7 @@
 ||adtdp.com^$3p
 ||adtec.ru^$3p
 ||adtech.ink^$3p
+||adtechmon.com^$3p
 ||adtelligent.com^$3p
 ||adthrive.com^$3p
 ||adtng.com^$3p
@@ -263,7 +269,6 @@
 ||airbridge.io^$3p
 ||airshedcoart.com^$3p
 ||airtory.com^$3p
-||airwallex.com^$3p
 ||aisdr.com^$3p
 ||aiservice.vn^$3p
 ||aisiteanalytics.com^$3p
@@ -275,11 +280,14 @@
 ||aj2438.online^$3p
 ||aj2532.bid^$3p
 ||ajscdn.com^$3p
+||akfzziowsd.in^$3p
 ||aksiamp.com^$3p
 ||akstat.io^$3p
 ||al-adtech.com^$3p
+||alaphoid.com^$3p
 ||albacross.com^$3p
 ||alchemer.eu^$3p
+||alchemyx.tech^$3p
 ||alcmpn.com^$3p
 ||alfalfaemployeeresource.com^$3p
 ||alfasense.com^$3p
@@ -291,6 +299,7 @@
 ||aliyun.com^$3p
 ||alketech.eu^$3p
 ||alkimi-onboarding.com^$3p
+||allowtohimselfew.org^$3p
 ||allyable.com^$3p
 ||alm.com^$3p
 ||alma-amr.net^$3p
@@ -304,6 +313,7 @@
 ||amazon-adsystem.com^$3p
 ||amcdn.vn^$3p
 ||amgs5.com^$3p
+||amildarrobomb.com^$3p
 ||amocrm.ru^$3p
 ||amplitude.com^$3p
 ||ampscamp.net^$3p
@@ -319,6 +329,7 @@
 ||analyze.ly^$3p
 ||andata.ru^$3p
 ||andbeyond.media^$3p
+||andthoughmy.org^$3p
 ||angularpoppyrobbing.com^$3p
 ||animeapp.org^$3p
 ||aniview.com^$3p
@@ -330,6 +341,7 @@
 ||anyclip.com^$3p
 ||anyrtb.com^$3p
 ||aoneroom.com^$3p
+||aotter.net^$3p
 ||ap.org^$3p
 ||aparat.com^$3p
 ||apester.com^$3p
@@ -362,11 +374,13 @@
 ||askjdhaa.com^$3p
 ||askmiso.com^$3p
 ||askspot.io^$3p
+||asmaraku.com^$3p
 ||aso1.net^$3p
 ||assertcom.de^$3p
 ||assetsconfigcdn.org^$3p
 ||astarsbuilding.com^$3p
 ||astonishlandmassnervy.com^$3p
+||astoopolitet.org^$3p
 ||astronautlividlyreformer.com^$3p
 ||astutebot.com^$3p
 ||at-o.net^$3p
@@ -397,6 +411,7 @@
 ||avads.live^$3p
 ||avads.net^$3p
 ||avantisvideo.com^$3p
+||avito.ru^$3p
 ||avmws.com^$3p
 ||avplayer.com^$3p
 ||awdeliverynet.com^$3p
@@ -473,10 +488,12 @@
 ||bigcrunch.com^$3p
 ||bigidcmp.cloud^$3p
 ||bigpoint.net^$3p
+||bildsoectoph.com^$3p
 ||bilibili.com^$3p
 ||bing.com^$3p
 ||bing.net^$3p
 ||birdpriceall.com^$3p
+||biscuitbox.net^$3p
 ||bitmovin.com^$3p
 ||bitrix.info^$3p
 ||bitrix24.ru^$3p
@@ -548,6 +565,7 @@
 ||btloader.com^$3p
 ||bttrack.com^$3p
 ||btttag.com^$3p
+||bucketlistbob.com^$3p
 ||bugherd.com^$3p
 ||bullionglidingscuttle.com^$3p
 ||bumlam.com^$3p
@@ -557,6 +575,7 @@
 ||buzzoola.com^$3p
 ||bxtag.com^$3p
 ||bydata.com^$3p
+||byracucosopenu.com^$3p
 ||byroundprince.com^$3p
 ||byside.com^$3p
 ||bytedance.com^$3p
@@ -596,6 +615,7 @@
 ||cdnfonts.com^$3p
 ||cdnwidget.com^$3p
 ||celtra.com^$3p
+||cestosnumber.com^$3p
 ||chaatwallas.com^$3p
 ||chagnougroalry.net^$3p
 ||chaitin.com^$3p
@@ -657,6 +677,7 @@
 ||clicktivatedstudio.com^$3p
 ||clicktripz.com^$3p
 ||clientgear.com^$3p
+||clientside-collector-614357087518.us-central1.run.app^$3p
 ||clinch.co^$3p
 ||clink.cn^$3p
 ||clipcentric.com^$3p
@@ -668,11 +689,11 @@
 ||clnmde.com^$3p
 ||clobberprocurertightwad.com^$3p
 ||cloudflareinsights.com^$3p
+||cloudfrant.net^$3p
 ||cloudpayments.ru^$3p
 ||cluep.com^$3p
 ||clvrads.com^$3p
 ||cm360capture-7g5w7ywcuq-rj.a.run.app^$3p
-||cnbcfm.com^$3p
 ||cncenter.cz^$3p
 ||cnn.com^$3p
 ||cnnd.vn^$3p
@@ -688,6 +709,7 @@
 ||coinbase.com^$3p
 ||collectiveaudience.co^$3p
 ||collegenet.com^$3p
+||colorsonchain.com^$3p
 ||colossusssp.com^$3p
 ||comagic.ru^$3p
 ||comanicilikeiste.com^$3p
@@ -710,6 +732,7 @@
 ||consent.studio^$3p
 ||consentag.eu^$3p
 ||constantcontact.com^$3p
+||consumerdebtnegotiation.com^$3p
 ||contanuity.com^$3p
 ||contentabc.com^$3p
 ||contentdsp.com^$3p
@@ -767,6 +790,7 @@
 ||ctnsnet.com^$3p
 ||ctobsnssdk.com^$3p
 ||ctrltech.ai^$3p
+||culsucqivn.in^$3p
 ||culturaltracking.ru^$3p
 ||cupbearergrowllurch.com^$3p
 ||curalate.com^$3p
@@ -786,6 +810,7 @@
 ||dadata.com.br^$3p
 ||dailymail.co.uk^$3p
 ||darkpetalia.com^$3p
+||darks.live^$3p
 ||darnobedienceupscale.com^$3p
 ||dashfi.dev^$3p
 ||dashly.app^$3p
@@ -874,7 +899,6 @@
 ||doubleclick.uk.net^$3p
 ||doubleverify.com^$3p
 ||doyoudi.com^$3p
-||dpgmedia.net^$3p
 ||dpmsrv.com^$3p
 ||dreamserve.dev^$3p
 ||drift-pixel.ai^$3p
@@ -886,14 +910,13 @@
 ||dscgirls.live^$3p
 ||dscsrv.com^$3p
 ||dsfmzp.com^$3p
-||dsnhfu.com^$3p
 ||dsspn.com^$3p
 ||dst82e.com^$3p
 ||dsuntq.com^$3p
-||dsvkxa.com^$3p
-||dswklo.com^$3p
 ||dsx827.com^$3p
 ||dsxmn0.com^$3p
+||dtexgc.com^$3p
+||dtmtdc.com^$3p
 ||dtsan.net^$3p
 ||dtscdn.com^$3p
 ||dtscout.com^$3p
@@ -912,6 +935,7 @@
 ||e-planning.net^$3p
 ||e-rasaneh.ir^$3p
 ||e-volution.ai^$3p
+||e6ui8pc.com^$3p
 ||e7cod.com^$3p
 ||eacdn.com^$3p
 ||eagle-insight.com^$3p
@@ -933,12 +957,15 @@
 ||effirst.com^$3p
 ||egain.cloud^$3p
 ||egocdn.com^$3p
+||egotisticexcavateplywood.com^$3p
 ||eigene.io^$3p
 ||ekcs.us^$3p
 ||elementwidget.com^$3p
 ||elevenlabs.io^$3p
 ||eln3ax.com^$3p
 ||elnnap.com^$3p
+||elnod8.com^$3p
+||elonreptiloid.com^$3p
 ||eloqua.com^$3p
 ||elowriderst.com^$3p
 ||eltiempo.co^$3p
@@ -951,6 +978,7 @@
 ||endlesshandbaglinked.com^$3p
 ||endowmentoverhangutmost.com^$3p
 ||engage-x.io^$3p
+||enomotia.com^$3p
 ||enrtx.com^$3p
 ||ensighten.com^$3p
 ||enviou.com.br^$3p
@@ -1009,17 +1037,18 @@
 ||fatmedia.io^$3p
 ||fawnlux.com^$3p
 ||fbot.me^$3p
-||fc2.com^$3p
 ||feathr.co^$3p
 ||featureassets.org^$3p
 ||featuregates.org^$3p
 ||fedoq.com^$3p
+||fedy.io^$3p
 ||feedad.com^$3p
 ||feedify.info^$3p
 ||feedify.net^$3p
 ||feedmob.biz^$3p
 ||feednews.com^$3p
 ||feewuptaurugri.net^$3p
+||fegekejynewyhe.com^$3p
 ||fermataintima.com^$3p
 ||feroot.com^$3p
 ||fetnet.net^$3p
@@ -1036,7 +1065,6 @@
 ||firstview.gr^$3p
 ||fishboardcrew.com^$3p
 ||fishrobotflower.com^$3p
-||five9.com^$3p
 ||fixidle.com^$3p
 ||flashb.id^$3p
 ||flashtalking.com^$3p
@@ -1100,6 +1128,7 @@
 ||gaconnector.com^$3p
 ||gacraft.jp^$3p
 ||gaii.ai^$3p
+||gamecontent.io^$3p
 ||gammaplatform.com^$3p
 ||gamoshi.io^$3p
 ||garlicice.store^$3p
@@ -1180,6 +1209,7 @@
 ||goinstore.com^$3p
 ||gokwik.co^$3p
 ||gokwik.io^$3p
+||gonreommon.com^$3p
 ||google-analytics.com^$3p
 ||google.be^$3p
 ||google.ca^$3p
@@ -1204,6 +1234,7 @@
 ||gravito.net^$3p
 ||greencolumnart.com^$3p
 ||greencolumnblog.com^$3p
+||greentrafsa.com^$3p
 ||greylabeldelivery.com^$3p
 ||gridsumdissector.com^$3p
 ||groovinads.com^$3p
@@ -1212,11 +1243,13 @@
 ||growingio.com^$3p
 ||growplow.events^$3p
 ||growthbuddy.app^$3p
+||grozgpage.click^$3p
 ||grxchange.gr^$3p
 ||gsitrix.com^$3p
 ||gsspat.jp^$3p
 ||gssprt.jp^$3p
 ||gtm-server-side-midia-prod-cthqdrhrsa-tl.a.run.app^$3p
+||guance.com^$3p
 ||guarantee-cdn.com^$3p
 ||guidegeek.com^$3p
 ||guidepaparazzisurface.com^$3p
@@ -1235,6 +1268,8 @@
 ||havasedge.com^$3p
 ||hbrd.io^$3p
 ||hcn.health^$3p
+||hdbkome.com^$3p
+||hdbtop.com^$3p
 ||hdslb.com^$3p
 ||hdtube.porn^$3p
 ||he7ll.com^$3p
@@ -1282,6 +1317,7 @@
 ||hubspot.net^$3p
 ||hubspotvideo.com^$3p
 ||hubvisor.io^$3p
+||hufevuwoketujy.com^$3p
 ||humblytics.com^$3p
 ||hushly.com^$3p
 ||hybrid.ai^$3p
@@ -1292,6 +1328,7 @@
 ||i2ad.jp^$3p
 ||i3f2.net^$3p
 ||ia-dmp.com^$3p
+||ia.box^$3p
 ||ib-ibi.com^$3p
 ||ibruce.info^$3p
 ||icarasia.com^$3p
@@ -1303,11 +1340,11 @@
 ||idgesg.net^$3p
 ||idio.co^$3p
 ||idnes.cz^$3p
+||idsequoia.ai^$3p
 ||iesnare.com^$3p
 ||igaw.io^$3p
 ||igodigital.com^$3p
 ||iheart.com^$3p
-||ihg.com^$3p
 ||iid.jp^$3p
 ||iionads.com^$3p
 ||ilan.gov.tr^$3p
@@ -1365,6 +1402,7 @@
 ||insight-x.tech^$3p
 ||insightexpressai.com^$3p
 ||insightly.services^$3p
+||insisdomwitered.com^$3p
 ||instagram.com^$3p
 ||instana.io^$3p
 ||instaread.co^$3p
@@ -1387,6 +1425,7 @@
 ||investingchannel.com^$3p
 ||investis.com^$3p
 ||investisdigital.com^$3p
+||invoca.net^$3p
 ||invol.co^$3p
 ||ioam.de^$3p
 ||iocnt.net^$3p
@@ -1483,6 +1522,7 @@
 ||klaviyo.com^$3p
 ||klear.com^$3p
 ||kleecks-stats.com^$3p
+||klkmdsync.site^$3p
 ||klonenorm.com^$3p
 ||kmsmep.com^$3p
 ||knet.cn^$3p
@@ -1492,6 +1532,8 @@
 ||koddi.com^$3p
 ||kombinat.digital^$3p
 ||komdigi.go.id^$3p
+||koxuwurutihugi.com^$3p
+||kqnoczl.com^$3p
 ||krakenoptimize.com^$3p
 ||krushmedia.com^$3p
 ||ksapisrv.com^$3p
@@ -1500,6 +1542,7 @@
 ||ktxlytics.io^$3p
 ||kueezrtb.com^$3p
 ||kueezssp.com^$3p
+||kurnhiafb.in^$3p
 ||kwai-pro.com^$3p
 ||kwai.net^$3p
 ||kwanzoo.com^$3p
@@ -1525,6 +1568,7 @@
 ||lemmatechnologies.com^$3p
 ||lemonpi.io^$3p
 ||lendingtree.com^$3p
+||letras.mus.br^$3p
 ||letslinc.com^$3p
 ||letsporn.com^$3p
 ||letterrecoveryunplanted.com^$3p
@@ -1576,6 +1620,7 @@
 ||loopme.com^$3p
 ||loopme.me^$3p
 ||loopwidget.com^$3p
+||lostwaxlab.com^$3p
 ||lotlinx.com^$3p
 ||lotus-dsp.ru^$3p
 ||lr-digital.de^$3p
@@ -1583,6 +1628,7 @@
 ||luigisbox.com^$3p
 ||lunamedia.live^$3p
 ||lunamon.net^$3p
+||luponmedia.com^$3p
 ||lura.live^$3p
 ||lushpalace.com^$3p
 ||luugy.com^$3p
@@ -1662,6 +1708,7 @@
 ||mediatoday.ru^$3p
 ||mediav.com^$3p
 ||mediavine.com^$3p
+||mediavitrina.ru^$3p
 ||mediawallahscript.com^$3p
 ||mediaworks.hu^$3p
 ||medietall.no^$3p
@@ -1669,6 +1716,7 @@
 ||medtargetsystem.com^$3p
 ||megagroup.ru^$3p
 ||megasportcasino.com^$3p
+||mejewusodovuca.com^$3p
 ||meli.com^$3p
 ||melia.com^$3p
 ||membrana.media^$3p
@@ -1685,13 +1733,16 @@
 ||metrike.com.br^$3p
 ||metrix.az^$3p
 ||metv.com^$3p
+||mewcdn.online^$3p
 ||mfadsrvr.com^$3p
+||mfilterit.net^$3p
 ||mfk-network.com^$3p
 ||mg2insights.com^$3p
 ||mgaru.dev^$3p
 ||mgid.com^$3p
 ||mi.com^$3p
 ||miaozhen.com^$3p
+||miceonme.com^$3p
 ||micpn.com^$3p
 ||microad.jp^$3p
 ||microsoft.com^$3p
@@ -1699,6 +1750,7 @@
 ||mindbehind.com^$3p
 ||mindbox.ru^$3p
 ||mindtrip.ai^$3p
+||mintegral.com^$3p
 ||minute-ly.com^$3p
 ||minute.ly^$3p
 ||miqanfobx.in^$3p
@@ -1714,6 +1766,7 @@
 ||ml314.com^$3p
 ||mman.kr^$3p
 ||mmapiws.com^$3p
+||mmcdn.com^$3p
 ||mmonline.io^$3p
 ||mmstat.com^$3p
 ||mmvideocdn.com^$3p
@@ -1721,9 +1774,11 @@
 ||mncportal.id^$3p
 ||mobilefuse.com^$3p
 ||mobilewallet.cards^$3p
+||mobkoi.com^$3p
 ||mobon.net^$3p
 ||mobtop.com^$3p
 ||modoro360.com^$3p
+||modusygunaciro.com^$3p
 ||moe.video^$3p
 ||moengage.com^$3p
 ||moleculeservices.net^$3p
@@ -1737,6 +1792,8 @@
 ||monsterjokes.com^$3p
 ||monu.delivery^$3p
 ||mookie1.com^$3p
+||moonlighthathel.org^$3p
+||moonvelin.com^$3p
 ||moorshoes.com^$3p
 ||mos.ru^$3p
 ||motu-teamblue.services^$3p
@@ -1746,6 +1803,7 @@
 ||moviead55.ru^$3p
 ||movingimage.com^$3p
 ||mparticle.com^$3p
+||mpc-prod-21-1053047382554.us-central1.run.app^$3p
 ||mpc-prod-24-s6uit34pua-uw.a.run.app^$3p
 ||mpc-prod-27-s6uit34pua-uk.a.run.app^$3p
 ||mpeasylink.com^$3p
@@ -1787,6 +1845,7 @@
 ||narrative.io^$3p
 ||nate.com^$3p
 ||nativendo.de^$3p
+||naughtra.com^$3p
 ||navattic.com^$3p
 ||navdmp.com^$3p
 ||naver.com^$3p
@@ -1824,6 +1883,7 @@
 ||nmo-ep.nl^$3p
 ||nmrodam.com^$3p
 ||nodals.io^$3p
+||nodeviro.com^$3p
 ||nofraud.com^$3p
 ||noibu.com^$3p
 ||noirpeach.com^$3p
@@ -1847,6 +1907,7 @@
 ||nudeprism.com^$3p
 ||nui.media^$3p
 ||nxt-psh.com^$3p
+||nyhizyjybawozi.com^$3p
 ||nytrng.com^$3p
 ||oblush.com^$3p
 ||ockrkyarvmuc.in^$3p
@@ -1881,6 +1942,7 @@
 ||onclckpop.com^$3p
 ||onclmng.com^$3p
 ||oneadtag.com^$3p
+||onechat.dev^$3p
 ||onef.pro^$3p
 ||onefootball.com^$3p
 ||onelink.me^$3p
@@ -1894,6 +1956,7 @@
 ||onezapp.com^$3p
 ||online-metrix.net^$3p
 ||onthe.io^$3p
+||onyxafter.com^$3p
 ||opamarketplace.com^$3p
 ||opecloud.com^$3p
 ||open-adsyield.com^$3p
@@ -1932,9 +1995,10 @@
 ||outbrain.com^$3p
 ||outbrainimg.com^$3p
 ||outcomes.net^$3p
-||outpost.pub^$3p
+||outerbloom.com^$3p
 ||oval.id^$3p
 ||overjoyedbicycle.com^$3p
+||overwolf.com^$3p
 ||owneriq.net^$3p
 ||ownpage.fr^$3p
 ||owox.com^$3p
@@ -1942,6 +2006,7 @@
 ||p7cloud.net^$3p
 ||pa-cd.com^$3p
 ||pacplatform.net^$3p
+||pacvue.com^$3p
 ||pages02.net^$3p
 ||pages03.net^$3p
 ||pagesense.io^$3p
@@ -1961,6 +2026,7 @@
 ||peachhush.com^$3p
 ||peachparlour.com^$3p
 ||peachreel.com^$3p
+||pecannerous.com^$3p
 ||pecantinglytripod.com^$3p
 ||peer-39.com^$3p
 ||pemsrv.com^$3p
@@ -1978,11 +2044,13 @@
 ||pgammedia.com^$3p
 ||pgamrtb.com^$3p
 ||pgs.io^$3p
+||phbscr.com^$3p
 ||phoenix-widget.com^$3p
 ||phonandroid.com^$3p
 ||photorank.me^$3p
 ||phywi.org^$3p
 ||pickrr.com^$3p
+||pingbp.com^$3p
 ||pinklion.io^$3p
 ||pinterest.com^$3p
 ||pippio.com^$3p
@@ -2000,6 +2068,7 @@
 ||plsgotoasg.com^$3p
 ||plushcine.com^$3p
 ||plushcinema.com^$3p
+||plushcinfafema.com^$3p
 ||pm-serv.co^$3p
 ||pm-srv.co^$3p
 ||pmbmonetize.live^$3p
@@ -2009,6 +2078,7 @@
 ||pointmediatracker.com^$3p
 ||polaris.me^$3p
 ||polskapress.pl^$3p
+||polymarket.com^$3p
 ||popin.cc^$3p
 ||populartooth.com^$3p
 ||popupmaker.com^$3p
@@ -2029,10 +2099,12 @@
 ||powerstarsbuilding.com^$3p
 ||prandolisto.com^$3p
 ||prdredir.com^$3p
+||prebidcache.com^$3p
 ||prebidserver24.azurewebsites.net^$3p
 ||prebrid.tv^$3p
 ||prefixbox.com^$3p
 ||premiumads.com.br^$3p
+||prensaiberica.es^$3p
 ||presage.io^$3p
 ||presentdust.com^$3p
 ||primecaster.net^$3p
@@ -2060,6 +2132,7 @@
 ||protecmedia.com^$3p
 ||protoroundprince.com^$3p
 ||provesrc.com^$3p
+||prtimes.jp^$3p
 ||prynxo.com^$3p
 ||psplugin.com^$3p
 ||pszn.cz^$3p
@@ -2075,6 +2148,7 @@
 ||pubperf.com^$3p
 ||pubrise.ai^$3p
 ||pubtrky.com^$3p
+||pulsehush.com^$3p
 ||punchmedia.ru^$3p
 ||purechat.com^$3p
 ||push-sdk.com^$3p
@@ -2083,7 +2157,6 @@
 ||pushub.net^$3p
 ||pushwoosh.com^$3p
 ||pvdpix.com^$3p
-||pvvstream.pro^$3p
 ||px-cdn.net^$3p
 ||px-cloud.net^$3p
 ||pxaction.com^$3p
@@ -2131,7 +2204,6 @@
 ||rapidedge.io^$3p
 ||rapidresultsearch.com^$3p
 ||rapidspike.com^$3p
-||raspaid.pl^$3p
 ||rat.xxx^$3p
 ||raygun.io^$3p
 ||rayjump.com^$3p
@@ -2231,6 +2303,7 @@
 ||rubyblu.com^$3p
 ||rubynocturne.com^$3p
 ||rudo.video^$3p
+||rugfrfji.win^$3p
 ||rulive.ru^$3p
 ||rum.hlx.page^$3p
 ||rumble.com^$3p
@@ -2274,6 +2347,7 @@
 ||sber.ru^$3p
 ||sberbank.ru^$3p
 ||sbermarketing.ru^$3p
+||sbrf.ru^$3p
 ||sc-static.net^$3p
 ||scalibur.io^$3p
 ||scarabresearch.com^$3p
@@ -2307,6 +2381,7 @@
 ||segmetrics.io^$3p
 ||segreencolumn.com^$3p
 ||selectmedia.asia^$3p
+||sellwild.com^$3p
 ||semasio.net^$3p
 ||sendsay.ru^$3p
 ||sendtonews.com^$3p
@@ -2324,10 +2399,10 @@
 ||servenobid.com^$3p
 ||serverbid.com^$3p
 ||servicebell.com^$3p
-||servicepipe.tech^$3p
 ||serving-sys.ru^$3p
 ||setupad.io^$3p
 ||setupad.net^$3p
+||sex4tokens.com^$3p
 ||sexad.net^$3p
 ||sexcash.com^$3p
 ||sexchatters.com^$3p
@@ -2354,6 +2429,7 @@
 ||shigotech.io^$3p
 ||shinobi.jp^$3p
 ||shinystat.com^$3p
+||shinystat.it^$3p
 ||shiprocket.in^$3p
 ||shop.app^$3p
 ||shop.pe^$3p
@@ -2401,6 +2477,7 @@
 ||smartcallback.ru^$3p
 ||smartclip.net^$3p
 ||smartcustomer.com^$3p
+||smartfloralab.com^$3p
 ||smarthint.co^$3p
 ||smartnews-ads.com^$3p
 ||smartocto.com^$3p
@@ -2480,6 +2557,7 @@
 ||sso-fh.com^$3p
 ||stackadapt.com^$3p
 ||stacksocial.com^$3p
+||stackup-ai.com^$3p
 ||stape.ai^$3p
 ||stape.biz^$3p
 ||stape.ca^$3p
@@ -2524,12 +2602,14 @@
 ||stx-track.com^$3p
 ||styleaffinity.com^$3p
 ||stylitics.com^$3p
+||stytch.com^$3p
 ||sugarcams.com^$3p
 ||sumologic.com^$3p
 ||sumome.com^$3p
 ||sundaysky.com^$3p
 ||sunmedia.tv^$3p
 ||suntcontent.se^$3p
+||supechcopa.com^$3p
 ||superchat.live^$3p
 ||superchatlive.com^$3p
 ||supplyframe.com^$3p
@@ -2600,12 +2680,15 @@
 ||the-ozone-project.com^$3p
 ||theads.io^$3p
 ||theadx.com^$3p
+||theagenticx.ai^$3p
 ||thebestpaints.com^$3p
 ||thecas.xyz^$3p
+||theconversation.com^$3p
 ||thedd.online^$3p
 ||theetheks.com^$3p
 ||thefitville.com^$3p
 ||thehotelsnetwork.com^$3p
+||thenai.org^$3p
 ||thenewsbox.net^$3p
 ||thepointyspritesclub.com^$3p
 ||theweathernetwork.com^$3p
@@ -2667,6 +2750,7 @@
 ||traffmovie.com^$3p
 ||trafmag.com^$3p
 ||transcend.io^$3p
+||transparentedge.io^$3p
 ||traumatictrash.com^$3p
 ||travelaudience.com^$3p
 ||traversedlp.com^$3p
@@ -2743,8 +2827,10 @@
 ||uncn.jp^$3p
 ||uncocleypercha.com^$3p
 ||undertone.com^$3p
+||unfrizzpacinko.com^$3p
 ||unian.net^$3p
 ||unibuddy.co^$3p
+||unidadeditorial.es^$3p
 ||unisender.com^$3p
 ||univtec.com^$3p
 ||unoadsrv.com^$3p
@@ -2836,10 +2922,12 @@
 ||visualwebsiteoptimizer.com^$3p
 ||visx.net^$3p
 ||viverse.com^$3p
+||vivodemisrentas.net^$3p
 ||vk-portal.net^$3p
 ||vk.com^$3p
 ||vk.ru^$3p
 ||vkvideo.ru^$3p
+||vlstream.net^$3p
 ||vm5apis.com^$3p
 ||voiceflow.com^$3p
 ||voipbuster.com^$3p
@@ -2853,10 +2941,12 @@
 ||vrtcal.com^$3p
 ||vsnt.net^$3p
 ||vtex.com^$3p
+||vtrk-auc86.com^$3p
 ||vuukle.com^$3p
 ||vuukle.net^$3p
 ||w4m.rs^$3p
 ||w55c.net^$3p
+||wakuhyfeserucu.com^$3p
 ||walletconnect.org^$3p
 ||wallkit.net^$3p
 ||walls.io^$3p
@@ -2890,13 +2980,18 @@
 ||whireclogomod.com^$3p
 ||whitesaas.com^$3p
 ||whitetrafsa.com^$3p
+||whoas.xyz^$3p
+||whoisezh.com^$3p
 ||wholepagecache.com^$3p
+||wicjkpage.casa^$3p
 ||wickedra.com^$3p
 ||widdimo.com^$3p
 ||widerplanet.com^$3p
 ||widgetbot.io^$3p
+||wigongrti.in^$3p
 ||winding-hurt.com^$3p
 ||wingify.net^$3p
+||wingsmob.com^$3p
 ||wipe.de^$3p
 ||wisepops.com^$3p
 ||wisepops.net^$3p
@@ -2935,6 +3030,7 @@
 ||xhlive.cam^$3p
 ||xhlive.org^$3p
 ||xhlive.stream^$3p
+||xhupcewu.in^$3p
 ||xing.com^$3p
 ||xintaicz.cn^$3p
 ||xiti.com^$3p
@@ -3004,22 +3100,24 @@
 ||zlink7.com^$3p
 ||zlinkp.com^$3p
 ||zlinkt.com^$3p
+||zmaticoo.com^$3p
 ||zoho.in^$3p
-||zohocloud.ca^$3p
 ||zohopublic.ca^$3p
 ||zohopublic.in^$3p
+||zohostratus.in^$3p
 ||zonos.com^$3p
 ||zoominfo.com^$3p
 ||zprk.io^$3p
 ||zucks.net^$3p
 ||zxyvrtd.com^$3p
 ! ========================================================
-! Section 2: Third-Party Cookie-Blocked Domains (810)
+! Section 2: Third-Party Cookie-Blocked Domains (840)
 ! Restricts 3rd-party cookies/storage without canceling the request
 ! ========================================================
 ||1c5c1ecf7303.0b384439.ap-southeast-1.token.awswaf.com^$3p,cookie
 ||25livepub.collegenet.com^$3p,cookie
 ||659-jst-226.mktoweb.com^$3p,cookie
+||7bgwjjboquq1.servicepipe.tech^$3p,cookie
 ||91app.com^$3p,cookie
 ||a.klaviyo.com^$3p,cookie
 ||a02.azurefd.net^$3p,cookie
@@ -3033,6 +3131,7 @@
 ||affirm.com^$3p,cookie
 ||afterpay.com^$3p,cookie
 ||airtrfx.com^$3p,cookie
+||airwallex.com^$3p,cookie
 ||ajax.microsoft.com^$3p,cookie
 ||alicdn.com^$3p,cookie
 ||aliyuncs.com^$3p,cookie
@@ -3075,6 +3174,7 @@
 ||api.openai.com^$3p,cookie
 ||api.pinterest.com^$3p,cookie
 ||api.prefixbox.com^$3p,cookie
+||api.razorpay.com^$3p,cookie
 ||api.reddit.com^$3p,cookie
 ||api.reviews.io^$3p,cookie
 ||api.smooch.io^$3p,cookie
@@ -3104,6 +3204,7 @@
 ||archive.org^$3p,cookie
 ||arcpublishing.com^$3p,cookie
 ||arkoselabs.com^$3p,cookie
+||asicsdigitalinc.my.site.com^$3p,cookie
 ||assets.braintreegateway.com^$3p,cookie
 ||assets.customer.io^$3p,cookie
 ||assets.mediadelivery.net^$3p,cookie
@@ -3119,6 +3220,7 @@
 ||auth.split.io^$3p,cookie
 ||auth0.com^$3p,cookie
 ||authorize.net^$3p,cookie
+||avatars.yandex.net^$3p,cookie
 ||avplayer-cdn.sportradar.com^$3p,cookie
 ||avplayer.sportradar.com^$3p,cookie
 ||awswaf.com^$3p,cookie
@@ -3141,6 +3243,7 @@
 ||brm-core-0.brsrvr.com^$3p,cookie
 ||broadcast-live-delivery-cdn.jwplayer.com^$3p,cookie
 ||browser.translate.yandex.net^$3p,cookie
+||buzzsprout.com^$3p,cookie
 ||byteoversea.com^$3p,cookie
 ||c.dun.163.com^$3p,cookie
 ||c.riskified.com^$3p,cookie
@@ -3187,6 +3290,7 @@
 ||cdn.livechat-files.com^$3p,cookie
 ||cdn.maptiler.com^$3p,cookie
 ||cdn.optimizely.com^$3p,cookie
+||cdn.paddle.com^$3p,cookie
 ||cdn.prefixbox.com^$3p,cookie
 ||cdn.qumucloud.com^$3p,cookie
 ||cdn.riddle.com^$3p,cookie
@@ -3216,8 +3320,10 @@
 ||cfvod.eu.kaltura.com^$3p,cookie
 ||cfvod.irp2.ovp.kaltura.com^$3p,cookie
 ||cfvod.kaltura.com^$3p,cookie
+||cg.optimizely.com^$3p,cookie
 ||check.ddos-guard.net^$3p,cookie
 ||checkout.google.com^$3p,cookie
+||checkout.razorpay.com^$3p,cookie
 ||cidades.rdstation.com.br^$3p,cookie
 ||classy.org^$3p,cookie
 ||client.axept.io^$3p,cookie
@@ -3243,6 +3349,7 @@
 ||cognigy.cloud^$3p,cookie
 ||commerce.adobe.io^$3p,cookie
 ||commercecloud.salesforce.com^$3p,cookie
+||communication.azure.com^$3p,cookie
 ||config.smooch.io^$3p,cookie
 ||connect.breadpayments.com^$3p,cookie
 ||consent.api.osano.com^$3p,cookie
@@ -3310,6 +3417,7 @@
 ||duuytoqss3gu4.cloudfront.net^$3p,cookie
 ||duwriicdzpsrh.cloudfront.net^$3p,cookie
 ||dwcdn.net^$3p,cookie
+||dyleigm6ncg1.servicepipe.tech^$3p,cookie
 ||dynamics.com^$3p,cookie
 ||e.infogram.com^$3p,cookie
 ||edge-geo.nc0.co^$3p,cookie
@@ -3320,6 +3428,7 @@
 ||embed.avplayer.com^$3p,cookie
 ||embed.flowplayer.com^$3p,cookie
 ||embed.reddit.com^$3p,cookie
+||embeds.beehiiv.com^$3p,cookie
 ||enetscores.com^$3p,cookie
 ||entitlements.jwplayer.com^$3p,cookie
 ||episerver.net^$3p,cookie
@@ -3330,11 +3439,14 @@
 ||ex.co^$3p,cookie
 ||explicit.bing.net^$3p,cookie
 ||express.adobe.com^$3p,cookie
+||f55685555563t3i3o3a3b3n3n0079556626.us-5.evergage.com^$3p,cookie
+||fc2.com^$3p,cookie
 ||feedburner.google.com^$3p,cookie
 ||feedproxy.google.com^$3p,cookie
 ||feeds.soundcloud.com^$3p,cookie
 ||firebaselogging-pa.googleapis.com^$3p,cookie
 ||firebaselogging.googleapis.com^$3p,cookie
+||five9.com^$3p,cookie
 ||flickr.com^$3p,cookie
 ||flixcdn.com^$3p,cookie
 ||fontawesome.com^$3p,cookie
@@ -3490,6 +3602,7 @@
 ||media.beehiiv.com^$3p,cookie
 ||media.discordapp.net^$3p,cookie
 ||media.tenor.com^$3p,cookie
+||media1.tenor.com^$3p,cookie
 ||mediaspace.kaltura.com^$3p,cookie
 ||meetings.hubspot.com^$3p,cookie
 ||members.tildaapi.com^$3p,cookie
@@ -3499,6 +3612,7 @@
 ||mirrors.creativecommons.org^$3p,cookie
 ||mktoweb.com^$3p,cookie
 ||mm.bing.net^$3p,cookie
+||mmmxstpfe4y1.servicepipe.tech^$3p,cookie
 ||mncdn.com^$3p,cookie
 ||mod.bsky.app^$3p,cookie
 ||mp.lura.live^$3p,cookie
@@ -3518,6 +3632,7 @@
 ||my.salesforce.com^$3p,cookie
 ||my.site.com^$3p,cookie
 ||navigation-api.project1service.com^$3p,cookie
+||navvy.akamaized.net^$3p,cookie
 ||ncsa.sdapi.io^$3p,cookie
 ||news.google.com^$3p,cookie
 ||newsmemory.com^$3p,cookie
@@ -3541,6 +3656,7 @@
 ||oraclecloud.com^$3p,cookie
 ||org.coveo.com^$3p,cookie
 ||ott.kaltura.com^$3p,cookie
+||outpost.pub^$3p,cookie
 ||packager.avplayer.com^$3p,cookie
 ||packagercdn.avplayer.com^$3p,cookie
 ||paddle.com^$3p,cookie
@@ -3589,6 +3705,7 @@
 ||pusher.com^$3p,cookie
 ||pushnami-cdn.s3.us-east-1.amazonaws.com^$3p,cookie
 ||puzzles-games-api.gp-prod.conde.digital^$3p,cookie
+||pvvstream.pro^$3p,cookie
 ||pwc.chase.com^$3p,cookie
 ||pxlclnmdecom-a.akamaihd.net^$3p,cookie
 ||qsearch-a.akamaihd.net^$3p,cookie
@@ -3596,6 +3713,7 @@
 ||queue-it.net^$3p,cookie
 ||quotemedia.com^$3p,cookie
 ||r.bing.com^$3p,cookie
+||razorpay.com^$3p,cookie
 ||rcom-eu.dynamicyield.com^$3p,cookie
 ||rcom.dynamicyield.com^$3p,cookie
 ||recaptcha.net^$3p,cookie
@@ -3636,6 +3754,7 @@
 ||secureserver.net^$3p,cookie
 ||securiti.ai^$3p,cookie
 ||servicepipe.ru^$3p,cookie
+||servicepipe.tech^$3p,cookie
 ||share.hsforms.com^$3p,cookie
 ||shield.sitelock.com^$3p,cookie
 ||shopify.com^$3p,cookie
@@ -3685,6 +3804,8 @@
 ||streaming.transcend.io^$3p,cookie
 ||streamtheworld.com^$3p,cookie
 ||stripe.com^$3p,cookie
+||stripecdn.com^$3p,cookie
+||strm.yandex.net^$3p,cookie
 ||strm.yandex.ru^$3p,cookie
 ||substack.com^$3p,cookie
 ||suggest-maps.yandex.ru^$3p,cookie
@@ -3692,6 +3813,7 @@
 ||sync.transcend.io^$3p,cookie
 ||t-mobile.com.ssl.d1.sc.omtrdc.net^$3p,cookie
 ||t.me^$3p,cookie
+||t1.kakaocdn.net^$3p,cookie
 ||talkgadget.google.com^$3p,cookie
 ||tarteaucitron.io^$3p,cookie
 ||tawk.to^$3p,cookie
@@ -3702,6 +3824,7 @@
 ||tildacdn.com^$3p,cookie
 ||tinypass.com^$3p,cookie
 ||tiqcdn.com^$3p,cookie
+||tjuugs2yx8c1.servicepipe.tech^$3p,cookie
 ||tms-monitoring-dot-project-id-4181994499646779312.ew.r.appspot.com^$3p,cookie
 ||tradingview.com^$3p,cookie
 ||transistor.fm^$3p,cookie
@@ -3726,9 +3849,11 @@
 ||uc5a74a5c3fa75b1d0eae0fb016a.dl.dropboxusercontent.com^$3p,cookie
 ||uc5c27d1a7ab4b7c9139ee95bec1.dl.dropboxusercontent.com^$3p,cookie
 ||uc65c99503f6bb8f0d29434cff1f.dl.dropboxusercontent.com^$3p,cookie
+||uc791941a9dc12dada1ee3726f2c.dl.dropboxusercontent.com^$3p,cookie
 ||uc950c175ca0dacacd80f7265e9c.dl.dropboxusercontent.com^$3p,cookie
 ||uc9885958df8900ec12805d7f775.dl.dropboxusercontent.com^$3p,cookie
 ||ucab6dafbffecc523efe151aaa15.dl.dropboxusercontent.com^$3p,cookie
+||ucc32b52d32f6fc4be2f1ae8a50f.dl.dropboxusercontent.com^$3p,cookie
 ||ucd03600e4598db0be78a7fd5585.dl.dropboxusercontent.com^$3p,cookie
 ||ucd3b17ff389db07e6c008b5b419.dl.dropboxusercontent.com^$3p,cookie
 ||ucdda6838aef716248417e5d096c.dl.dropboxusercontent.com^$3p,cookie
@@ -3744,6 +3869,7 @@
 ||userway.org^$3p,cookie
 ||usestoryteller.com^$3p,cookie
 ||v0.wordpress.com^$3p,cookie
+||v9wmawcdbea1.servicepipe.tech^$3p,cookie
 ||validate.perfdrive.com^$3p,cookie
 ||verifi.podscribe.com^$3p,cookie
 ||vevormessagingno.zendesk.com^$3p,cookie
@@ -3807,6 +3933,7 @@
 ||www.tradingview-widget.com^$3p,cookie
 ||www.tripadvisor.com^$3p,cookie
 ||wwwimages.adobe.com^$3p,cookie
+||xhpingcdn.com^$3p,cookie
 ||xsdownload.adobe.com^$3p,cookie
 ||y3.analytics.yahoo.com^$3p,cookie
 ||yastatic.net^$3p,cookie
